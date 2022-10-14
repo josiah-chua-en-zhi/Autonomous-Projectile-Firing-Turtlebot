@@ -46,3 +46,14 @@ This directory contains standalone scripts for testing and calibrating the syste
 This directory contains setup scripts for installing the code onto a new machine.
 - `bootstrap_client.py` Updates packages, installs required libraries, and builds the client side code.
 - `bootstrap_server.py` Installs required libraries, and builds the server side code.
+
+# Software Architecture
+![image](https://user-images.githubusercontent.com/81459293/195748615-acb7810d-e5c1-43d0-840b-5a3a16f30dcf.png)
+
+# Electrical Architecture
+## Functional Block Diagram
+![image](https://user-images.githubusercontent.com/81459293/195748548-aeaa9cde-d030-4c90-a60d-78dff3026a22.png)
+## Circuit Board Diagram
+![image](https://user-images.githubusercontent.com/81459293/195748891-da587c1d-bec8-4826-967d-08fd3e9163db.png)
+
+
