@@ -54,6 +54,6 @@ This directory contains setup scripts for installing the code onto a new machine
 ## Functional Block Diagram
 ![image](https://user-images.githubusercontent.com/81459293/195748548-aeaa9cde-d030-4c90-a60d-78dff3026a22.png)
 ## Circuit Board Design
-![image](https://user-images.githubusercontent.com/81459293/195748891-da587c1d-bec8-4826-967d-08fd3e9163db.png)
+![image](https://user-images.githubusercontent.com/81459293/195753304-e1b61500-0d45-4b67-8f65-98994a4302c9.png)
 
 
