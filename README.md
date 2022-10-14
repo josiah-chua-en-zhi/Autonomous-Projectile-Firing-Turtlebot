@@ -53,7 +53,7 @@ This directory contains setup scripts for installing the code onto a new machine
 # Electrical Architecture
 ## Functional Block Diagram
 ![image](https://user-images.githubusercontent.com/81459293/195748548-aeaa9cde-d030-4c90-a60d-78dff3026a22.png)
-## Circuit Board Diagram
+## Circuit Board Design
 ![image](https://user-images.githubusercontent.com/81459293/195748891-da587c1d-bec8-4826-967d-08fd3e9163db.png)
 
 
